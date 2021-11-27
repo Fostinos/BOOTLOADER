@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;001BOOTLoader&apos;" deleteContents="true" description="Delete resource &apos;001BOOTLoader&apos;" element1="/001BOOTLoader" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1637798800296"/>&#x0A;&#x0A;<refactoring comment="Delete resource &apos;001BOOTLoader/Core/Src/bootloader_main.c&apos;" deleteContents="false" description="Delete resource &apos;001BOOTLoader/Core/Src/bootloader_main.c&apos;" element1="/001BOOTLoader/Core/Src/bootloader_main.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1637859276182"/>
-</session>
