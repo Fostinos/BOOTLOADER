@@ -1,2 +1,2 @@
 # BOOTLOADER
-BootLoader Project based on STM32F429ZITX Discovery Board.
+BootLoader Project based on STM32F429I-DISC1 Board.
